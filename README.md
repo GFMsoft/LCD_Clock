@@ -1,4 +1,4 @@
-<img width="1274" height="612" alt="pic" src="https://github.com/user-attachments/assets/cd780aff-5f79-490a-b94a-7e5ec7529791" /># LCD_Clock - Auto-Sync Arduino Uhr
+# LCD_Clock - Auto-Sync Arduino Uhr
 
 Dieses Projekt besteht aus einer Arduino-basierten LCD-Uhr, die sich bei jedem Systemstart automatisch mit der aktuellen Uhrzeit eines Windows-Rechners synchronisiert. 
 
