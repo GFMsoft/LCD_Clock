@@ -1,2 +1,0 @@
-C:\Users\ukognos\Desktop\GIT\LCD_Clock\bin\publish\LCD_Clock.pdb
-C:\Users\ukognos\Desktop\GIT\LCD_Clock\bin\publish\LCD_Clock.exe
